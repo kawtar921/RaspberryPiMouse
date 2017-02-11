@@ -1,5 +1,7 @@
 # RaspberryPiMouse
 
+Mouse emulator with the Raspberry Pi
+
 ##Overview
 ![alt tag](https://raw.githubusercontent.com/kawtar921/RaspberryPiMouse/master/Overview.png)
 
