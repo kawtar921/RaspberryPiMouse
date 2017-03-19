@@ -2,7 +2,7 @@
 
 Mouse emulator with the Raspberry Pi
 
-##Overview
+## Overview
 ![alt tag](https://raw.githubusercontent.com/kawtar921/RaspberryPiMouse/master/Overview.png)
 
 The program runs on a Raspberry Pi connected to a Raspicam and displays on a 480x320 screen a menu that allows the user to choose the mouse movement and the type of click (simple click, double click, right click, drag and drop).
